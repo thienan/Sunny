@@ -1,4 +1,7 @@
+![alt text](https://github.com/vicky7230/Sunny/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png "Logo")
+
 # Sunny
+![License](https://img.shields.io/badge/LICENSE-Apache%20License%202.0-blue.svg)
 A very simple app to show weather. 
 
 ### Featues

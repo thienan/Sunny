@@ -3339,7 +3339,6 @@
         <item>Zunheboto</item>
     </string-array>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="saved_cities">Saved Cities</string>
+    <string name="about">About</string>
 </resources>

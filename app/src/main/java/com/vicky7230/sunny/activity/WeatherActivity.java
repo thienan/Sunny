@@ -425,14 +425,12 @@ public class WeatherActivity extends AppCompatActivity implements GoogleApiClien
     public boolean onOptionsItemSelected(MenuItem item) {
 
         switch (item.getItemId()) {
-
-
             case R.id.saved_cities:
-
                 startActivityForResult(new Intent(WeatherActivity.this, SavedCitiesActivity.class), MY_REQUEST_CODE_REMOVE_CITY);
-
                 return true;
-
+            case R.id.about:
+                startActivity(new Intent(this, AboutActivity.class));
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
 

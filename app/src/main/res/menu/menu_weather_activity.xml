@@ -5,4 +5,9 @@
         android:id="@+id/saved_cities"
         android:title="@string/saved_cities"
         app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        app:showAsAction="never"/>
 </menu>
